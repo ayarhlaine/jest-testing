@@ -1,0 +1,24 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devayarhlaine/jest-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devayarhlaine/jest-testing/issues"
+  },
+  "homepage": "https://github.com/devayarhlaine/jest-testing#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "jest": "^24.9.0"
+  }
+}
